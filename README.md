@@ -1,0 +1,1 @@
+Script that tracks every IoTAh device's warnings/errors and adds/updates the info on a spreadsheet. It updates the info by using counters to track how many days a device has had a particular warning/error.
